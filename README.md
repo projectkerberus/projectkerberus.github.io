@@ -1,6 +1,6 @@
-# Project Kerberus Site
+# Krateo Site
 
-This is the the source for [https://projectkerberus.io](https://projectkerberus.io).
+This is the the source for [https://krateo.io](https://krateo.io).
 
 ## License
 
